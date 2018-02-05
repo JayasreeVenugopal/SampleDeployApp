@@ -1,0 +1,10 @@
+{
+  "name": "DateTime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jayasree",
+  "license": "ISC",
+  "dependencies": {
+    "time": "^0.12.0"
+  }
+}
